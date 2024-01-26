@@ -9,13 +9,12 @@
 ## Navegación entre activities
 <p align="justify">El programa define varios OnClickListener para diferentes CardView en el diseño. Cuando se hace clic en un CardView, se inicia una nueva activity. Por ejemplo, cuando se hace clic en <code>cardView1</code>, se inicia <code>SecondActivity</code>. De manera similar, los clics en <code>cardView2</code>, <code>cardView3</code>, <code>cardView4</code>, <code>cardView5</code> y <code>cardView6</code> inician <code>ThirdActivity</code>, <code>FourthActivity</code>, <code>FifthActivity</code>, <code>SixthActivity</code> y <code>SeventhActivity</code>, respectivamente.</p>
 
-![image](https://github.com/marelycarcamo/CardView/assets/44790921/da4bd4b2-7fa5-4756-a011-04da7b57a2e3)
-
-
-
-
 <p align="justify">Este programa es un excelente recurso para entender cómo navegar entre diferentes activities en una aplicación de Android.😊</p>
-![image](https://github.com/marelycarcamo/CardView/assets/44790921/14b698f2-a0b9-41ae-8fe4-7b91d4f847ed)
+
+<img src="https://github.com/marelycarcamo/CardView/assets/44790921/da4bd4b2-7fa5-4756-a011-04da7b57a2e3" width="500" height="800" align="center">
+
+
+
 
 <hr>
 <p align="right">marely</p>
